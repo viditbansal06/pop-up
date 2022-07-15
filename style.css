@@ -1,0 +1,19 @@
+#box {
+    background-color: palevioletred;
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+  }
+  
+  body {
+    background-color: yellow;
+  }
+  
+  #box.show {
+    visibility: visible;
+  }
+  
+  .close_popup {
+    margin-top: 1%;
+    margin-left: 97%;
+  }
